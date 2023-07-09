@@ -1,0 +1,7 @@
+{
+  "baseURLWeb": "http://HOST:PORT/web",
+  "baseURLApi": "http://HOST:PORT/api",
+  "authURL" : "http://%s:%s@HOST:PORT/web",
+  "loginWeb" : "",
+  "passwordWeb" : ""
+}

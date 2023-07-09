@@ -1,0 +1,5 @@
+{
+  "user" : "",
+  "password" : "",
+  "url" : "jdbc:mysql://HOST:PORT/DB_NAME"
+}
